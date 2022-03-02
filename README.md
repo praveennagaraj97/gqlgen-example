@@ -1,1 +1,1 @@
-# Golang-GraphQL Example Application
+# Golang-GraphQL Example
